@@ -1,0 +1,15 @@
+artifact_uri: file:///hdd/tuannm82/face-mask-classifier/mlruns/0/a2defceceaf74141baa2198d2e5cab46/artifacts
+end_time: 1634186163986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a2defceceaf74141baa2198d2e5cab46
+run_uuid: a2defceceaf74141baa2198d2e5cab46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1634186155740
+status: 3
+tags: []
+user_id: thanhnn

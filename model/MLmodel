@@ -1,0 +1,13 @@
+artifact_path: mask-detector
+flavors:
+  python_function:
+    data: data
+    env: conda.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.6.9
+  pytorch:
+    model_data: data
+    pytorch_version: 1.7.1
+run_id: cd8b3c1c099f459e9c9746535b091a59
+utc_time_created: '2021-10-14 09:19:33.686500'
