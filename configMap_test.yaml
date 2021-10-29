@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-tele
+data:
+  service.telegram: |
+    token: 2098249464:AAEWpTlE8smdPVsGwAoE5jTYflDEGAE-Fr4

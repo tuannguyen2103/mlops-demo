@@ -2,7 +2,7 @@ import boto3
 from mlflow.tracking import MlflowClient
 import mlflow.pytorch
 
-client = MlflowClient("http://10.61.185.121:5000")
+client = MlflowClient("http://10.61.185.121:5120")
 model_path = client.get_registered_model('MLops-demo2').latest_versions[0].source
 
 model_url = model_path.split("s3://mlflow/")[-1]

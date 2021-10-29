@@ -2,15 +2,12 @@ numpy==1.18.5
 opencv-python==4.4.0.42
 Pillow==7.2.0
 six==1.16.0
-mlflow
 cloudpickle==2.0.0
 torch==1.7.1
 torchvision==0.8.2
 tqdm==4.62.3
-<<<<<<< HEAD
-=======
 mlflow
->>>>>>> 5a3c9b88575011e4bbc9b002c346ce20bb78e209
 boto3
 pymysql 
 minio
+seldon-core==1.4.0
